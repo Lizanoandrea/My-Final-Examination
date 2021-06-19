@@ -1,0 +1,7 @@
+Name:Andrea M.Lizano
+Course and Year: BSIT2-D
+Date Of Birth:December 12,1999
+Place Of Birth:Bulan Sorsogon
+Gender:Female
+Civil Status:Single
+Nationality:Filipino
