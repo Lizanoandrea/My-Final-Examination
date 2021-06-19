@@ -1,0 +1,10 @@
+Git is a distributed version control system,
+As a contrast to for example subversion that is centralized.
+What this means is that with subversion,the code 
+Repository (repo) lives on a server and people need
+Special permission to be able to add code to the repo.
+
+GitHub facilitates social coding by providing a web
+Interface to the Got Code Repository and management tools for
+Collaboration.Github can be thought of as a serious networking
+Site for software developers.
